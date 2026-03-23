@@ -154,6 +154,20 @@ Your notebook includes two PCA-based analysis helpers:
 
 These utilities are useful for qualitative inspection of whether a backbone separates classes well in embedding space.
 
+## Results
+
+### Colon (UNI)
+![Colon UNI](results/colon_uni.png)
+![Colon UNI Class](results/colon_uni_CLASS.png)
+
+### Lung (UNI)
+![Lung UNI](results/lung_uni.png)
+![Lung UNI Class](results/lung_uni_CLASS.png)
+
+### WCE (UNI)
+![WCE UNI](results/wce_uni.png)
+![WCE UNI Class](results/wce_uni_CLASS.png)
+
 ## Example configuration
 
 ```python
