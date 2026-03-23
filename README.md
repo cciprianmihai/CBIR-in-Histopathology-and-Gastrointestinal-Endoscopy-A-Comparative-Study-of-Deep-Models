@@ -55,6 +55,10 @@ dataset_root/
 └── ...
 ```
 
+## Datasets
+
+The datasets can be accessed at the following link: [Download Datasets](https://drive.google.com/drive/folders/1K7v9Oqdy9DShtzX31pNFMYdjWWCMb5hM?usp=sharing)
+
 Each subdirectory name is treated as the class label. The code accepts common image formats including JPG, JPEG, PNG, BMP, TIF, TIFF, and WEBP.
 
 ## Retrieval metrics
