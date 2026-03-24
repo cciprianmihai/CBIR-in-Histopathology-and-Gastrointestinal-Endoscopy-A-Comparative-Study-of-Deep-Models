@@ -164,9 +164,9 @@ These utilities are useful for qualitative inspection of whether a backbone sepa
 ![Colon UNI](results/colon_uni.png)
 ![Colon UNI Class](results/colon_uni_CLASS.png)
 
-### WCE (UNI)
-![WCE UNI](results/wce_uni.png)
-![WCE UNI Class](results/wce_uni_CLASS.png)
+### WCE (BMC-CLIP-CF)
+![WCE BMC-CLIP-CF](results/wce_bmc_clip_cf.png)
+![WCE BMC-CLIP-CF Class](results/wce_bmc_clip_cf_CLASS.png)
 
 ### Merged datasets (BMC-CLIP-CF)
 ![Merged datasets BMC-CLIP-CF](results/bmc_clip_cf.JPG)
