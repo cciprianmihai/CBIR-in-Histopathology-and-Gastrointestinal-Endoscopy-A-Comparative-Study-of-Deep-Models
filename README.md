@@ -172,6 +172,10 @@ These utilities are useful for qualitative inspection of whether a backbone sepa
 ![Merged datasets BMC-CLIP-CF](results/bmc_clip_cf.JPG)
 ![Merged datasets BMC-CLIP-CF Class](results/bmc_clip_cf_CLASS.JPG)
 
+### WCE Frozed ResNet50 vs Fine-tuned ResNet50
+![Merged datasets BMC-CLIP-CF](results/rs_frozen_WCE.png)
+![Merged datasets BMC-CLIP-CF Class](results/rs_ft_WCE.png)
+
 ## Example configuration
 
 ```python
